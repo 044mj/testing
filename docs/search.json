@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "R_files/analysis1.html",
+    "href": "R_files/analysis1.html",
+    "title": "analysis",
+    "section": "",
+    "text": "i want to see if dataset contain c\n\nnames_cont(important_data, \"b\")\n\n[1] \"bb\" \"bc\"\n\n\n\nmean_sd_sum(important_data$aa)\n\n[1] \"1 (NA)\""
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]

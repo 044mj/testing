@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+
+data/
+R_files/my_functions.R
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto

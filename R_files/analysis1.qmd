@@ -1,0 +1,49 @@
+---
+title: "analysis"
+knitr:
+  opts_knit:
+    root.dir: "D:/Files/tmp_quarto_website/testing"
+---
+
+
+
+```{r}
+#| label: readin-data
+#| include: false
+#setwd(rprojroot::find_rstudio_root_file())
+# read_in_trends_short.R
+#source(file.path("R_files", "read_in_quarto_trends.R"))
+
+
+
+# source("R_files/read_in_quarto_trends.R")
+# bd_df <- readRDS("data/bd_df_14_Nov_2024.rds")
+
+source("R_files/my_functions.R")
+important_data <- read_csv("data/edited_output/important_data.csv")
+important_data2 <- read_csv("data/important_data2.csv")
+include_colour_tidy_log_output <- FALSE
+# taken from "explore_plots.R"
+source("D:/Files/kilkenny_bTB_case_study/R_files/kk_case_study_functions.R", echo = T, print.eval = TRUE)
+```
+
+
+# i want to see if dataset contain c
+
+
+```{r}
+names_cont(important_data, "b")
+```
+
+
+
+```{r}
+mean_sd_sum(important_data$aa)
+```
+
+
+
+
+
+
+
