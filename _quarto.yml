@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - analysis1.qmd
+      - blah.qmd
+      - options.qmd
 
 format:
   html:
@@ -19,4 +22,9 @@ format:
     toc: true
 
 editor: visual
+
+
+
+
+
 

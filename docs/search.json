@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "testing",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "R_files/blah.html",
+    "href": "R_files/blah.html",
+    "title": "other",
+    "section": "",
+    "text": "blah"
+  },
+  {
+    "objectID": "R_files/options.html",
+    "href": "R_files/options.html",
+    "title": "options",
+    "section": "",
+    "text": "khljlkjk"
   }
 ]

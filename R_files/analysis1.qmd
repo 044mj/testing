@@ -1,5 +1,9 @@
 ---
 title: "analysis"
+
+format: 
+  html:
+    page-layout: full
 knitr:
   opts_knit:
     root.dir: "D:/Files/tmp_quarto_website/testing"
