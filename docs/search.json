@@ -33,5 +33,26 @@
     "title": "options",
     "section": "",
     "text": "khljlkjk"
+  },
+  {
+    "objectID": "options.html",
+    "href": "options.html",
+    "title": "options",
+    "section": "",
+    "text": "khljlkjk"
+  },
+  {
+    "objectID": "analysis1.html",
+    "href": "analysis1.html",
+    "title": "analysis",
+    "section": "",
+    "text": "i want to see if dataset contain c\n\nnames_cont(important_data, \"b\")\n\n[1] \"bb\" \"bc\"\n\n\n\nmean_sd_sum(important_data$aa)\n\n[1] \"1 (NA)\""
+  },
+  {
+    "objectID": "blah.html",
+    "href": "blah.html",
+    "title": "other",
+    "section": "",
+    "text": "blah"
   }
 ]

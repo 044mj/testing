@@ -9,7 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - analysis1.qmd
+      - text: "Tutorials"
+        href: analysis1.qmd
       - blah.qmd
       - options.qmd
 
