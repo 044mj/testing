@@ -9,8 +9,6 @@ knitr:
     root.dir: "D:/Files/tmp_quarto_website/testing"
 ---
 
-
-
 ```{r}
 #| label: readin-data
 #| include: false
@@ -31,23 +29,12 @@ include_colour_tidy_log_output <- FALSE
 source("D:/Files/kilkenny_bTB_case_study/R_files/kk_case_study_functions.R", echo = T, print.eval = TRUE)
 ```
 
-
 # i want to see if dataset contain c
-
 
 ```{r}
 names_cont(important_data, "b")
 ```
 
-
-
 ```{r}
 mean_sd_sum(important_data$aa)
 ```
-
-
-
-
-
-
-
